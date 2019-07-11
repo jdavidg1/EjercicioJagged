@@ -33,6 +33,7 @@ namespace EjercicioJagged
 
             //Pedir los alumnos por cada salón
 
+
             for (i=0; i<salones;i++)
             {
                 Console.WriteLine("Salón {0}: ", i+1);
